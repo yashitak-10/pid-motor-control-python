@@ -4,3 +4,18 @@
 This project was created for educational and self-learning purposes. All simulations, analyses, and documentation are based on standard control systems theory that is typically covered in undergraduate engineering courses.
 
 The implementation is original, and all external concepts are properly acknowledged through references in the report.
+
+
+
+
+
+
+
+
+
+
+## References
+
+1. N. S. Nise, Control Systems Engineering
+2. python-control documentation
+3. University of Michigan Control Tutorials (CTMS)
